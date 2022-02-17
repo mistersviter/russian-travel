@@ -2,6 +2,6 @@
   display: flex;
   margin: 0 auto;
   justify-content: space-between;
-  max-width: calc(100% - 96px);
+  max-width: calc(100% - 48px * 2);
   max-height: 52px;
 }
