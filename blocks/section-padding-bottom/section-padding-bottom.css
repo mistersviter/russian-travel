@@ -1,3 +1,9 @@
 .section-padding-bottom {
   padding-bottom: 92px;
 }
+
+@media screen and (max-width: 768px) {
+  .section-padding-bottom {
+    padding-bottom: 88px;
+  }
+}
