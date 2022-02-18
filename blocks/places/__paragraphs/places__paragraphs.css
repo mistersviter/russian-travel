@@ -1,4 +1,4 @@
-.places_paragraphs {
+.places__paragraphs {
   display: flex;
   flex-direction: column;
   gap: 26px 0;
