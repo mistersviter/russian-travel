@@ -14,3 +14,11 @@
     max-width: 70%;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .cover__title {
+    font-size: 32px;
+    line-height: 1.1;
+    max-width: 288px;
+  }
+}

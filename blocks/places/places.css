@@ -18,3 +18,16 @@
     gap: 72px 0;
   }  
 }
+
+@media screen and (max-width: 767px) {
+  .places {
+    max-width: calc(100% - 16px * 2);
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .places {
+    max-width: 100%;
+    gap: 50px 0;
+  }
+}
