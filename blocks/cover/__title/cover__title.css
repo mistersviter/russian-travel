@@ -6,3 +6,11 @@
   margin: 0;
   text-align: center;
 }
+
+@media screen and (max-width: 740px) {
+  .cover__title {
+    font-size: 9.730vmin;
+    line-height: 10.270vmin;
+    max-width: 70%;
+  }
+}

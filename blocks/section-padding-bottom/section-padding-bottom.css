@@ -7,3 +7,9 @@
     padding-bottom: 88px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .section-padding-bottom {
+    padding-bottom: 64px;
+  }
+}
